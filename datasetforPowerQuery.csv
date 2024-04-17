@@ -1,0 +1,100 @@
+Order ID,Date,First,Last,Gender,Age,Country,Price,Units,Revenue,"Payment 
+Method",Salesperson
+10507,45095,Janet,Murphy,Female,55,FR,400,91,36400, Credit Card,ANNa Perez
+10534,45100,Janice,Clark,Female,60,IT,400,83.6,33440, Cash,    Anna Perez
+10537,45101,Charlotte,Walker,Female,58,FR,320,83.6,26752, Credit Card,Anna Perez
+10538,45101,Natalie,Robinson,Female,49,FR,320,83.6,26752, Credit Card,ANNA PEREZ
+10542,45102,Doris,Nguyen,Female,42,IT,400,83.6,33440, Credit Card,    Tom Jackson
+10547,45103,Keith,Roberts,Male,51,UK,250,83.6,20900, Credit Card,TOM Jackson
+10485,45091,Kelly,Jones,Female,51,JP,320,82,26240, Credit Card,JeNNA SilVA
+10453,45084,Kennedi,Singh,Male,50,ES,250,80,20000, Gift Card,Anna Perez
+10477,45089,Joseph,Mitchell,Male,59,FR,150,80,12000, Credit Card,     Anna Perez
+10486,45091,Steven,Simpson,Male,48,US,150,80,12000, Credit Card,  Jenna Silva
+10490,45092,Kenneth,Anderson,Male,45,JP,150,80,12000, Credit Card,ANNA PEREZ
+10502,45094,Nicholas,Gerrard,Male,56,ES,320,80,25600, Credit Card,ANNA PEREZ
+10523,45098,Judith,Lopez,Female,47,JP,400,80,32000, Cash,   Remy MONET
+10525,45099,Hannah,Garcia,Female,60,ES,320,79.8,25536, Cash,REMY MONET
+10535,45101,Marilyn,Allen,Female,44,IT,400,79.6,31840, Credit Card,Anna Perez
+10461,45086,Brendan,Walls,Male,57,JP,400,76,30400, Credit Card,      Remy Monet
+10506,45095,Carolyn,Muir,Female,56,FR,150,76,11400, Credit Card,Anna Perez
+10531,45100,Teresa,Jarris,Female,53,IT,400,76,30400, Cash,   Remy MONET
+10536,45101,Beverly,Young,Female,45,FR,150,76,11400, Credit Card,Anna Perez
+10541,45102,Brittany,Hill,Female,68,IT,320,76,24320, Credit Card,TOM Jackson
+10546,45103,Christian,Carter,Male,54,JP,320,76,24320, Credit Card,TOM Jackson
+10501,45094,Gary,Sinclair,Male,40,ES,320,76,24320, Credit Card,Anna Perez
+10456,45085,Ivan,Hines,Male,49,US,320,75,24000, Credit Card,Walter Muller
+10457,45085,Jonah,Higgins,Male,49,US,400,75,30000, Credit Card,REMY MONET
+10463,45086,Lucia,Mckay,Female,48,JP,150,75,11250, Credit Card,      Remy Monet
+10468,45087,Jaylynn,Knapp,Female,67,FR,150,75,11250, Credit Card,     Anna Perez
+10470,45088,Bryce,Carpenter,Male,59,FR,250,75,18750, Credit Card,     Anna Perez
+10473,45088,Michael,Filson,Male,63,US,250,75,18750, Credit Card,Anna Perez
+10478,45089,Thomas,Clark,Male,62,JP,250,75,18750, Credit Card,     Anna Perez
+10481,45090,Daniel,Davidson,Male,67,ES,250,75,18750, Credit Card,     Anna Perez
+10481,45090,Daniel,Davidson,Male,67,ES,400,75,30000, Credit Card,Anna Perez
+10510,45096,Heather,Stevenson,Female,60,USA,150,75,11250, Credit Card,Anna Perez
+10529,45099,Martha,Lee,Female,62,IT,320,73.98,23673.6, Cash,Remy Monet
+10476,45089,Richard,Ross,Male,52,FR,250,70,17500, Credit Card,Anna Perez
+10487,45091,Andrew,Hamilton,Male,41,US,320,70,22400, Credit Card,Jenna Silva
+10509,45095,Catherine,Sunderland,Female,51,FR,320,70,22400, Credit Card,Anna Perez
+10500,45094,Jacob,William,Male,54,ES,400,67,26800, Credit Card,Anna Perez
+10515,45097,Victoria,Prowse,Female,58,USA,150,63,9450, Cash,Jenna Silva
+10516,45097,Ruth,Milner,Female,55,USA,320,63,20160, Cash,Jenna Silva
+10483,45090,Virginia,Dunk,Female,52,USA,150,63,9450, Credit Card,Jenna    Silva
+10468,45087,Bruce,Rich,Male,53,FR,400,60,24000, Credit Card,     Anna Perez
+10475,45089,William,Stewart,Male,46,FR,320,60,19200, Credit Card,Anna Perez
+10480,45090,Charles,Gray,Male,52,ES,250,60,15000, Credit Card,     Anna Perez
+10495,45093,Ronald,Millar,Male,61,US,150,60,9000, Credit Card,Anna Perez
+10484,45090,Lauren,Webster,Female,44,USA,150,60,9000, Credit Card,Jenna    Silva
+10543,45102,Kayla,Nelson,Female,55,UK,400,59.8,23920, Credit Card,Tom Jackson
+10466,45087,Denzel,Flores,Male,37,FR,250,50,12500, Credit Card,     Anna Perez
+10467,45087,Bruno,Cordova,Male,39,FR,400,50,20000, Credit Card,     Anna Perez
+10532,45100,Gloria,White,Female,28,IT,400,45.6,18240, Cash,Jenna Silva
+10533,45100,Sara,Perez,Female,37,IT,400,45.6,18240, Cash,Jenna Silva
+10527,45099,Cheryl,Davis,Female,33,IT,400,45,18000, Cash,Remy Monet
+10528,45099,Jacqueline,Moore,Female,49,IT,150,45,6750, Cash,Remy Monet
+10496,45093,Jason,Crawford,Male,25,US,150,44,6600, Credit Card,Anna Perez
+10498,45093,Jeffrey,Dickson,Male,36,US,150,44,6600, Credit Card,Anna Perez
+10512,45096,Olivia,Craig,Female,37,USA,320,43,13760, Credit Card,Jenna Silva
+10513,45096,Julie,Wright,Female,51,USA,250,42,10500, Cash,Jenna Silva
+10474,45088,David,Thomson,Male,21,US,150,40,6000, Credit Card,     Anna Perez
+10479,45089,Christopher,Taylor,Male,37,JP,250,40,10000, Credit Card,     Anna Perez
+10488,45091,Paul,Murray,Male,24,US,150,40,6000, Credit Card,Jenna Silva
+10526,45099,Megan,Miller,Female,24,IT,400,39.8,15920, Cash,Remy Monet
+10548,45103,Roger,Turner,Male,21,UK,150,39.8,5970, Credit Card,Tom Jackson
+10508,45095,Maria,Kennedy,Female,39,FR,150,39,5850, Credit Card,Anna Perez
+10485,45091,Donald,Kerr,Male,35,US,400,38,15200, Credit Card,  Jenna Silva
+10505,45095,Rachel,White,Female,35,FR,250,38,9500, Credit Card,Anna Perez
+10524,45098,Andrea,Gonzalez,Female,46,JP,150,38,5700, Cash,Remy Monet
+10459,45085,Kylee,Townsend,Female,31,ES,150,38,5700, Credit Card,Walter Muller
+10494,45092,Timothy,Johnson,Male,23,US,320,38,12160, Credit Card,Anna Perez
+10504,45094,Jonathan,Burns,Male,23,FR,320,38,12160, Credit Card,Anna Perez
+10514,45096,Joyce,Adams,Female,21,USA,150,38,5700, Cash,Jenna Silva
+10539,45101,Theresa,Lewsis,Female,55,UK,320,38,12160, Credit Card,Anna Perez
+10544,45102,Alexis,Rivera,Female,43,IT,150,38,5700, Credit Card,Tom Jackson
+10549,45103,Terry,Evans,Male,52,US,400,38,15200, Credit Card,Tom Jackson
+10472,45088,John,Brown,Male,38,US,320,35,11200, Credit Card,Anna Perez
+10499,45093,Ryan,Hill,Male,39,US,150,33,4950, Credit Card,Anna Perez
+10455,45085,Nyla,Novak,Female,31,UK,400,28,11200, Credit Card,  Walter Muller
+10522,45098,Evelyn,Martinez,Female,26,JP,320,27,8640, Cash,Remy Monet
+10452,45084,Bill,Smith,Male,23,UK,150,25,3750, Gift Card,   Tom Jackson
+10457,45085,Jordan,Boone,Male,36,US,250,25,6250, Credit Card,      Remy Monet
+10460,45086,Nora,Rollins,Female,20,JP,320,25,8000, Credit Card,      Remy Monet
+10462,45086,Steven,Michael,Male,28,ES,400,25,10000, Credit Card,      Remy Monet
+10464,45086,Josue,Roach,Male,32,ES,320,25,8000, Credit Card,Remy Monet
+10454,45084,Harley,Fritz,Female,30,UK,250,25,6250, Gift Card,Jenna Silva
+10471,45088,Jaidyn,Andersen,Female,23,FR,150,25,3750, Credit Card,     Anna Perez
+10482,45090,Matthew,McDonald,Male,24,JP,250,25,6250, Credit Card,Jenna Silva
+10483,45090,Anthony,Henderson,Male,20,ES,320,25,8000, Credit Card,  Jenna Silva
+10492,45092,Brian,Munro,Male,38,DE,150,25,3750, Credit Card,Anna Perez
+10493,45092,George,Hughes,Male,36,US,150,25,3750, Credit Card,Anna Perez
+10497,45093,Edward,King,Male,31,US,320,25,8000, Credit Card,Anna Perez
+10503,45094,Eric,Jones,Male,33,FR,320,25,8000, Credit Card,Anna Perez
+10511,45096,Diane,Wood,Female,22,USA,150,25,3750, Credit Card,Jenna Silva
+10521,45098,Joan,Thomson,Female,26,JP,400,25,10000, Cash,Remy Monet
+10530,45100,Madison,Lohan,Female,26,IT,320,23.56,7539.2, Cash,Remy Monet
+10540,45102,Diana,Torres,Female,62,IT,250,23.56,5890, Credit Card,Anna Perez
+10520,45098,Christina,Fergusson,Female,26,JP,400,23,9200, Cash,Remy Monet
+10545,45103,Lori,Campbell,Female,20,JP,400,22.04,8816, Credit Card,Tom Jackson
+10489,45091,Joshua,Reid,Male,36,ES,320,20,6400, Credit Card,Anna Perez
+10454,45084,Harley,Fritz,Female,30,UK,150,15,2250, Gift Card,  Jenna Silva
+10454,45084,Harley,Fritz,Female,30,UK,250,10,2500, Gift Card,     Jenna Silva
